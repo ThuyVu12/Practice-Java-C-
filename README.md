@@ -1,1 +1,1 @@
-# Practice-Java-
+Practice Assignments for Java
